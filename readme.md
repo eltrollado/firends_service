@@ -4,7 +4,7 @@
 `pip install -r requirements.txt`
 
 ## Run Dev
-`uvicorn main:app --reload --app-dir app`
+`uvicorn main:app --reload`
 
 ## Deploy
 use dockerfile
